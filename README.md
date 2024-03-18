@@ -2,7 +2,7 @@
 
 # Preview
 
-!(https://user-images.githubusercontent.com/67447840/115097268-514c7800-9f53-11eb-9cd0-b4a3126a0978.png)
+https://user-images.githubusercontent.com/67447840/115097268-514c7800-9f53-11eb-9cd0-b4a3126a0978.png
 
 This is a simple movie website project where you can showcase your favorite movies along with their details like title, poster image, and a trailer. This project is built using HTML, CSS, and JavaScript.
 
